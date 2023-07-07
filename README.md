@@ -18,7 +18,7 @@
     <li>Start the server:</li>
   </ol>
 
-  <pre><code class="language-shell">npm start</code></pre>
+  <pre><code class="language-shell">nodemon Res.js</code></pre>
 
   <ol start="7">
     <li>Visit `http://localhost:3000` in your browser.</li>
